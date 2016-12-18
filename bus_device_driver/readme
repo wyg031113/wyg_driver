@@ -1,0 +1,16 @@
+/*************************************************************************
+    > File Name: readme.c
+    > Author: wyg
+    > Mail: wyg_0802@126.com 
+    > Created Time: 2016年12月09日 星期五 19时15分25秒
+ ************************************************************************/
+bus device driver
+
+bus can match device and driver
+
+when registe device and driver, need struct bus_type that defined in bus,
+so you shoud:
+cat bus/Module.symvers > device/Module.symvers
+cat bus/Module.symvers > driver/Module.symvers
+to avoid warning in make and error(module have undefined symbol).
+

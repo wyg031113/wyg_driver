@@ -1,0 +1,2 @@
+0x23bb28b8	hello_bus_dev	/root/data/kernel_module/bdd/tmp/bus/hellobus	EXPORT_SYMBOL
+0xf28a889b	hello_bus_type	/root/data/kernel_module/bdd/tmp/bus/hellobus	EXPORT_SYMBOL

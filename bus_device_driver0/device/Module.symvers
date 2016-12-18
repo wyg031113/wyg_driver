@@ -1,0 +1,2 @@
+0x2c69efc4	wyg_bus_type	/root/data/kernel_module/bdd/bus/wygbus	EXPORT_SYMBOL
+0x744d34af	wyg_bus_device	/root/data/kernel_module/bdd/bus/wygbus	EXPORT_SYMBOL
